@@ -32,7 +32,7 @@
             <artifactId>spring-test</artifactId>
             <version>${spring.version}</version>
             <scope>test</scope>
-        </dependency>
+        <dependency>
         <!-- End Testing -->
     </dependencies>
 </project>
